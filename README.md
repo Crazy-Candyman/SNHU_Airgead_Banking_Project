@@ -12,3 +12,5 @@ without monthly deposits and another with the monthly deposits.
 ### Screenshot
 
 ![](/screenshots/airgead_banking_screenshot.png)
+
+To Download: [Go Here](https://github.com/Crazy-Candyman/SNHU_Airgead_Banking_Project/releases/tag/v0.1)
